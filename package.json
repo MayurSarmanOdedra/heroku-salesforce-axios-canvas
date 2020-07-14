@@ -1,0 +1,18 @@
+{
+  "name": "heroku-salesforce-axios-canvas-example",
+  "version": "1.0.0",
+  "description": "App to be deploy to Heroku and used in Salesforce using Canvas. And the javascript APIs are being called using 'axios'.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MayurSarmanOdedra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "engines": {
+    "node": "^12.16.1",
+    "npm": "^6.13.4"
+  }
+}
