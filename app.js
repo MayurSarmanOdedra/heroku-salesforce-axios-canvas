@@ -1,4 +1,4 @@
-//const axios = require('axios');
+
 axios({
     method: 'get',
     url: 'https://coronavirus-19-api.herokuapp.com/countries/',
